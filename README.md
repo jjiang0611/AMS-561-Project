@@ -10,6 +10,8 @@ On January 5, 2025, New York City began charging most vehicles that enter Manhat
 - **Not every drop was traffic.** We concluded a broken tunnel sensor caused the stretch with no readings in the Lincoln Tunnel west center tube (summer 2024). BQE segments falling to 0 mph in April 2025 and an MDE/RFK segment reading 0 the whole period also point to sensor problems rather than real stoppages.
 - We presented our findings with policy recommendations for urban transportation planning.
 
+**Slides:** our presentation is attached to this project in the Projects section of [Jacky Jiang's LinkedIn profile](https://www.linkedin.com/in/jiang-jacky/details/projects/).
+
 ![Average daily speed, Lincoln Tunnel westbound north tube, March 2024 to May 2025](images/lincoln-tunnel-west-north-tube.png)
 
 *Lincoln Tunnel westbound north tube (NY → NJ): speeds step up after congestion pricing began in January 2025.*
