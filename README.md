@@ -24,6 +24,13 @@ On January 5, 2025, New York City began charging most vehicles that enter Manhat
 
 *BQE northbound, Atlantic Ave to Brooklyn Bridge (Manhattan side): readings fall to 0 mph in April 2025, another sign of a sensor problem.*
 
+## Who did what
+
+| Team member | Contributions |
+| --- | --- |
+| Jacky Jiang | Found additional datasets; data cleaning code; data organization code; the original nested-dictionary approach, later replaced with pandas DataFrames; proposal revisions |
+| Samuel Osei Poku | Found the starting datasets; proposal; visualization code; final report; final presentation |
+
 ## Data
 
 The notebook reads one Excel workbook, `AMS_561_Project.xlsx` (not included in this repo), with a sheet for each source:
